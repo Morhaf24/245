@@ -1,0 +1,19 @@
+{
+  "name": "m450",
+  "version": "1.0.0",
+  "description": "This project includes the API from üK295 in the /API/V1 subdirectory. The Slim base path was adjusted accordingly in the index.php of the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morhaf24/294.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morhaf24/294/issues"
+  },
+  "homepage": "https://github.com/Morhaf24/294#readme"
+}
