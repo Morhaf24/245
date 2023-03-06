@@ -7,6 +7,6 @@
 				</div>
 			</div>
 		</div>
-<!--?php require "../view/blocks/login_form.php"; ?>-->
+<?php require "view/blocks/login_form.php"; ?>
 	</body>
 </html>

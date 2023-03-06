@@ -1,7 +1,7 @@
 var loginOverlay = document.getElementById("login-overlay");
 
-var usernameField = document.getElementById("username-field");
-var passwordField = document.getElementById("password-field");
+var usernameField = document.getElementById("username");
+var passwordField = document.getElementById("password");
 
 /**
  * Called as onsubmit event by the login form itself.
